@@ -1,4 +1,4 @@
-# Social Connect
+# Social Media App
 
 **Social Connect** is a dynamic social media application designed for Android devices, allowing users to connect, share, and engage with friends and communities seamlessly. With a user-friendly interface and powerful features, Social Connect makes social interaction easier and more enjoyable.
 
